@@ -5,7 +5,8 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/azurejoga/Linkedin-Automatic-Attack-Simulation)](https://github.com/azurejoga/Linkedin-Automatic-Attack-Simulation/pulls)  
 [![GitHub issues](https://img.shields.io/github/issues/azurejoga/Linkedin-Automatic-Attack-Simulation)](https://github.com/azurejoga/Linkedin-Automatic-Attack-Simulation/issues)  
 [![License](https://img.shields.io/github/license/azurejoga/Linkedin-Automatic-Attack-Simulation)](https://opensource.org/licenses/GPL-3.0)  
-[meu linkedin](https://www.linkedin.com/in/juan-mathews-rebello-santos-/)
+[My LinkedIn](https://www.linkedin.com/in/juan-mathews-rebello-santos-/)
+[veja o estudo de caso, em português](https://github.com/azurejoga/Linkedin-Automatic-Attack-Simulation/blob/master/readme-pt_BR.md)
 
 ## Introduction
 
