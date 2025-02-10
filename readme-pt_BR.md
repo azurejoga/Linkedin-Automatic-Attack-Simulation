@@ -1,4 +1,4 @@
-# LinkedIn Automatic Simulation Attack - Análise de Segurança
+# LinkedIn Automatic Simulation Attack - POC (prova de conceito)
 
 [![GitHub stars](https://img.shields.io/github/stars/azurejoga/Linkedin-Automatic-Attack-Simulation?style=social)](https://github.com/azurejoga/Linkedin-Automatic-Attack-Simulation/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/azurejoga/Linkedin-Automatic-Attack-Simulation?style=social)](https://github.com/azurejoga/Linkedin-Automatic-Attack-Simulation/network)  
