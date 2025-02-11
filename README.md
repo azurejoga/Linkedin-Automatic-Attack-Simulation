@@ -143,10 +143,10 @@ This test allows understanding how automation interacts with the platform withou
 
 ## Final Considerations
 
-Test results indicate that more than 60 connection invitations were sent through the bot without any security block to prevent vulnerability exploration. In addition, the modes were closed without any additional safety verification.  
+The test results indicate that more than 60 connection requests were sent by the bot without any security block to prevent the exploitation of the vulnerability. Additionally, modals were closed without any additional security verification.  
 
-According to stress tests performed, no security blockers have been found, and the bot sent more than 100 connection invitations through the simulated browser. The conclusions of this case study indicate that, even with the minimized browser, the Bot continued to perform actions automatically, without any security block and even managing to circumvent LinkedIn's modes.  
+According to the stress tests conducted, no security blockers were found, and the bot sent more than 100 connection requests through the simulated browser. The conclusions drawn from this case study indicate that even with the browser minimized, the bot continued performing actions automatically, without any security restrictions, and was even able to bypass LinkedIn’s modals.  
 
-The only limitation found was the maximum number of connections allowed, but this is not enough to prevent bot actions as it can be expanded to perform other malicious activities or simply wait until next Monday to be executed again.  
+The only limitation encountered was the maximum number of allowed connections, but this is not enough to stop the bot’s actions, as it can be expanded to carry out other malicious activities or simply wait until next Monday to be executed again.  
 
-The conclusion is clear: there is no type of verification from LinkedIn servers to prevent the use of automated bots, which represents a serious risk of safety and raises concerns about the protection of platform users. After all, who can guarantee that many of them are not, in fact, bots?
+The conclusion is clear: there is no verification from LinkedIn's servers to prevent the use of automated bots, posing a serious security risk and raising concerns about user protection on the platform. After all, who can guarantee that many of them are not actually bots?
