@@ -111,11 +111,11 @@ Ensures the browser is closed at the end of execution.
 To safely test the script:
 
 ```sh
-git clone https://github.com/your-repository/linkedin-automation.git
-cd linkedin-automation
-pip install -r requirements.txt
+git clone https://github.com/azurejoga/Linkedin-Automatic-Attack-Simulation.git
+cd linkedin-Automatic-Attack-Simulation
+pip install playwright
 playwright install
-python linkedin_bot.py
+python linkedin.py
 ```
 
 This test allows understanding how automation interacts with the platform without compromising security or violating terms of use.
