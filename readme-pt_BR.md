@@ -121,7 +121,10 @@ Garante que o navegador seja fechado no final da execução.
 - **Detecção de Navegadores Automatizados**
 
 ## Considerações Finais
+Os resultados dos testes indicam que mais de 60 convites de conexão foram enviados por meio do bot, sem que houvesse qualquer bloqueio de segurança para impedir a exploração da vulnerabilidade. Além disso, os modais foram fechados sem nenhuma verificação de segurança adicional.  
 
-A automação no LinkedIn, se usada de forma maliciosa, pode comprometer a segurança da plataforma. Empresas e desenvolvedores devem estar atentos aos riscos e implementar práticas de mitigação.
+De acordo com os testes de estresse realizados, nenhum bloqueador de segurança foi encontrado, e o bot enviou mais de 100 convites de conexão por meio do navegador simulado. As conclusões desse estudo de caso indicam que, mesmo com o navegador minimizado, o bot continuou executando ações de forma automatizada, sem qualquer bloqueio de segurança e conseguindo até mesmo burlar os modais do LinkedIn.  
 
-A segurança digital é um desafio contínuo, exigindo medidas robustas para manter a confiabilidade das interações online.
+A única limitação encontrada foi o número máximo de conexões permitidas, mas isso não é suficiente para impedir as ações do bot, pois ele pode ser expandido para realizar outras atividades maliciosas ou simplesmente esperar até a próxima segunda-feira para ser executado novamente.  
+
+A conclusão é clara: não há qualquer tipo de verificação por parte dos servidores do LinkedIn para prevenir o uso de bots automatizados, o que representa um sério risco de segurança e levanta preocupações quanto à proteção dos usuários da plataforma. Afinal, quem pode garantir que muitos deles não são, na verdade, bots?
