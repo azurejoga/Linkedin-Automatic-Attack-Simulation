@@ -55,7 +55,7 @@ The `linkedin-connection.py` script is designed to automate the process of sendi
 - Facilitation of mass data collection campaigns, such as emails and job titles.
 - Basis for social engineering attacks, phishing, and collection of sensitive information.
 
-#### #Results
+#### Results
 The tests conducted with the `linkedin-connection.py` script revealed alarming results:
 
 1. During initial tests, over 60 connection invitations were sent without any form of blocking or detection by LinkedIn.
@@ -93,7 +93,7 @@ The `linkedin-message-automation.py` script was developed to automate the proces
 - Large-scale spam or disinformation campaigns.
 - High potential for credential theft and social engineering attacks.
 
-#### #Results
+#### Results
 The tests conducted with the `linkedin-message-automation.py` script demonstrated its effectiveness in exploiting critical platform vulnerabilities:
 
 1. The bot successfully sent messages to hundreds of contacts in a short period without any blocking or limitation.
